@@ -1,7 +1,7 @@
 subscription:
 
-https://raw.githubusercontent.com/blessqvpn/sub-vpn-happ/refs/heads/main/keysub.md
+raw.githubusercontent.com/blessqvpn/sub-vpn-happ/refs/heads/main/keysforsub.md
 
 QR:
 
-![qr-code](https://github.com/user-attachments/assets/31cc8177-0ac2-43a3-b276-196cfb8bea28)
+![qr-code (1)](https://github.com/user-attachments/assets/7eeb132c-1ea0-4bcd-ae41-6a894988784b)
