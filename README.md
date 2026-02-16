@@ -4,4 +4,4 @@ subscription:
 
 QR:
 
-![qr-code (1)](https://github.com/user-attachments/assets/7eeb132c-1ea0-4bcd-ae41-6a894988784b)
+![qr-code (2)](https://github.com/user-attachments/assets/d969e3cb-94c8-44b6-9648-81e85aca8ae9)
