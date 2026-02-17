@@ -2,9 +2,3 @@ vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n1.digionix.ir&type=/#blessqVPN[2]🇳🇱
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.100:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram+@WangCai2=&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#blessqVPN[3]🇧🇾
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.184.211:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram@@jdfxq=&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#blessqVPN[4]🇷🇺
-
-vless://18f72be7-0651-4037-928b-8a309d685796@176.96.137.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#blessqVPN[5]🇩🇪
-
