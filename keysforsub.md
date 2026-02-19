@@ -9,3 +9,5 @@ vless://e54e22d3-0576-44ab-a4fb-5c76fff4325b@data.cloudvibe.ir:2083?path=%2FR8I9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#blessqVPN[5]🇳🇱
 
 vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&security=tls&alpn=http%2F1.1&encryption=none&host=rahgozar.italiantourism.net&fp=chrome&type=httpupgrade&sni=rahgozar.italiantourism.net.#blessqVPN[6]🇳🇱
+
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade26070&security=tls&alpn=http/1.1&encryption=none&host=rahgozar.italiantourism.net&type=httpupgrade&sni=rahgozar.italiantourism.net.#blessqVPN[7]🇳🇱
