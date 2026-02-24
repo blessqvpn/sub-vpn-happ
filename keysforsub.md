@@ -8,3 +8,4 @@ vless://53fa2131-611e-413f-8b1a-3aed45529a52@158.160.171.167:443?flow=xtls-rprx-
 
 vless://203a5bad-6491-4b55-b472-b96504e446b7@62.113.117.70:8443?type=tcp&headerType=none&security=reality&fp=random&sni=rbc.ru&pbk=2Xrc6aJQCcucKmE1UMyjiL8bgm1wv8vfM395-VYpmCg&sid=e4d865807d9d23d1#🇳🇱🤍blessqvpn
 
+vless://a8517b36fe6e4ff990711a8b0e4b35a6@212.192.14.223:8443?type=xhttp&host=&path=/x&mode=auto&security=reality&fp=random&sni=ya.ru&pbk=NvRs6-EIik2ar7bpG0P6XvMbm3uiEb28HCqMFpqwQBA&sid=aabbccdd#🇷🇺🤍blessqvpn
