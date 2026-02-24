@@ -6,3 +6,5 @@ vless://ed055843-7e4f-4864-ad51-0ae724a5868b@pol.perfect-sto.ru:9443?flow=xtls-r
 
 vless://53fa2131-611e-413f-8b1a-3aed45529a52@158.160.171.167:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=84.img.avito.st&pbk=w8WltGLAGvOi6tsvnTQ80309byZo0Wo_Gs3fr8F6ixE&sid=331a54c7ab4b#🇩🇪🤍blessqvpn
 
+vless://203a5bad-6491-4b55-b472-b96504e446b7@62.113.117.70:8443?type=tcp&headerType=none&security=reality&fp=random&sni=rbc.ru&pbk=2Xrc6aJQCcucKmE1UMyjiL8bgm1wv8vfM395-VYpmCg&sid=e4d865807d9d23d1#🇳🇱🤍blessqvpn
+
