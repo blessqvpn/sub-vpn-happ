@@ -17,3 +17,4 @@ vless://f65f22f4-ea51-4074-8f64-d3871454cca9@a3.buzz-vpn.com:42428?flow=xtls-rpr
  vless://04c48cbc-f5bd-4c53-b810-08a8e337db32@45.148.119.196:443?type=ws&security=tls&sni=ozone.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇵🇱 Poland 🖤
 
  vless://d315c298-57eb-43d6-aa4c-78b704b626dc@138.124.60.221:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=www.sony.com&pbk=cKXze1bjINqLQeoCneYiGP4fLbKm1UHvNKm-naU2f1k&sid=21ff&spx=/#🇺🇸 USA 🖤
+
