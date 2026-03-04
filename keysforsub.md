@@ -12,9 +12,8 @@ vless://3d60dbe7-8901-4f1f-9872-9a6cff9906bb@tm.buzzvpn.online:47449?flow=xtls-r
 
 vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=bynco.com&pbk=2v65tFsCE7sFK8SzYs34x5kH3cUVLNERmP7ZrRmoWCc&sid=b259f48a&spx=/#🇳🇱 Netherlands 🖤
 
+vless://04c48cbc-f5bd-4c53-b810-08a8e337db32@45.148.119.196:443?type=ws&security=tls&sni=ozone.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇵🇱 Poland 🖤
+
 vless://f65f22f4-ea51-4074-8f64-d3871454cca9@a3.buzz-vpn.com:42428?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=ccICtTNR2BXmdCzazGcyci16c7O1kJIv6ugDM6xY2XY&sid=24adcebe&spx=/#🇩🇪 Germany 🖤
-
- vless://04c48cbc-f5bd-4c53-b810-08a8e337db32@45.148.119.196:443?type=ws&security=tls&sni=ozone.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇵🇱 Poland 🖤
-
  vless://d315c298-57eb-43d6-aa4c-78b704b626dc@138.124.60.221:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=www.sony.com&pbk=cKXze1bjINqLQeoCneYiGP4fLbKm1UHvNKm-naU2f1k&sid=21ff&spx=/#🇺🇸 USA 🖤
-
+ 
